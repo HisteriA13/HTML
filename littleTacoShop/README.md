@@ -9,6 +9,9 @@ A simple HTML project created while learning web development through freeCodeCam
 ## Features
 
 * Navigation menu
+
 * About section
+
 * Taco menu table
+
 * Contact and Store Hours pages
