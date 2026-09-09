@@ -1,17 +1,17 @@
 # Little Taco Shop
 
-A simple HTML project created while learning web development through freeCodeCamp and Dave Gray's HTML course.
+A simple HTML project created while learning web development through [freeCodeCamp](https://www.freecodecamp.org/learn) and Dave Gray's HTML course.
 
 ## Technologies
 
-* HTML5
+- HTML5
 
 ## Features
 
-* Navigation menu
+- Navigation menu
 
-* About section
+- About section
 
-* Taco menu table
+- Taco menu table
 
-* Contact and Store Hours pages
+- Contact and Store Hours pages
