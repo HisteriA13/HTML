@@ -15,3 +15,17 @@ A simple HTML project created while learning web development through [freeCodeCa
 - Taco menu table
 
 - Contact and Store Hours pages
+
+## Screenshots
+
+Index
+
+<img src="assets/screenshots/index.png" alt="" style="width: 400px; height: auto;">
+
+Hours
+
+<img src="assets/screenshots/hours.png" alt="" style="width: 400px; height: auto;">
+
+Contact
+
+<img src="assets/screenshots/contact.png" alt="" style="width: 400px; height: auto;">
